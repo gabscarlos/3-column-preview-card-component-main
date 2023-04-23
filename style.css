@@ -144,6 +144,11 @@ img {
         border-radius: 0 0 10px 10px;
         margin-bottom: 40px;
     }
+
+    .attribution {
+        margin: auto;
+        margin-top: 20px;
+    }
     
     
 }
